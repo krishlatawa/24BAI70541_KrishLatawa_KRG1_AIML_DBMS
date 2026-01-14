@@ -13,7 +13,7 @@ CHECK (book_count > 0)
 NOT NULL;
 
 INSERT INTO Books (book_id, book_name, author_name, book_count) 
-VALUES (01, 'Harry Potter', 'David', 3);
+VALUES (01, 'Superman', 'David', 3);
 
 SELECT * 
 FROM Books;
@@ -29,10 +29,10 @@ SELECT *
 FROM Library_Visitors;
 
 INSERT INTO Library_Visitors (user_id, name, age, email)
-VALUES (522, 'Bhavik Pahuja', 20, 'bhavik@gmail.com');
+VALUES (522, 'Krish Latawa', 20, 'krishlatawa05@gmail.com');
 
 INSERT INTO Library_Visitors (user_id, name, age, email)
-VALUES (1, 'abc', 21, 'abc@abc.abc');
+VALUES (1, 'xyz', 29, 'abc@gmail.com');
 
 SELECT *
 FROM Library_Visitors;
@@ -58,14 +58,14 @@ SELECT *
 FROM Book_Issue;
 
 UPDATE Book_Issue
-SET issue_date = '2026-01-09'
+SET issue_date = '2025-01-08'
 WHERE book_issue_id = 101;
 
 SELECT *
 FROM Book_Issue;
 
 CREATE ROLE Librarian
-WITH LOGIN PASSWORD '@Alpha123';
+WITH LOGIN PASSWORD '@Sigma123';
 
 GRANT SELECT, INSERT, DELETE, UPDATE
 ON Books
