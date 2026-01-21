@@ -1,38 +1,73 @@
-Experiment 1.2 – SQL SELECT Queries Using Clauses
-Objective
-The objective of this experiment is to understand and implement SQL SELECT queries using various clauses such as WHERE, GROUP BY, HAVING, and ORDER BY to retrieve and analyze data from a relational database.
+Lab Experiment 1.2
 
-Practical / Experiment Steps
-Create an EMPLOYEE table with required fields.
-Insert sample employee records into the table.
-Apply filtering using the WHERE clause.
-Group employee records using GROUP BY.
-Calculate average salary using aggregate functions.
-Filter grouped data using HAVING.
-Sort the final result using ORDER BY.
-Procedure of the Experiment
-Start the system and log in.
-Open PostgreSQL using pgAdmin.
-Connect to the required database.
-Create the EMPLOYEE table.
-Insert sample records into the table.
-Write the SQL query using WHERE, GROUP BY, HAVING, and ORDER BY clauses.
-Execute the query.
-Verify the output obtained.
-Take screenshots for record.
-Input / Output Details
-Input
-EMPLOYEE table containing employee details such as emp_id, emp_name, department, salary, and joining_date.
-Salary condition: salary greater than 20,000.
-Output
-Department-wise average salary.
-Only departments with average salary greater than 30,000.
-Result sorted in descending order of average salary.
+AIM
+To understand and implement SQL SELECT queries using various clauses such as WHERE, ORDER BY, GROUP BY, and HAVING to retrieve and manipulate data efficiently from relational database tables.
+________________________________________
+Objective of the Session
+●	To practice writing SQL SELECT statements.
+
+●	To apply filtering conditions using the WHERE clause.
+
+●	To sort query results using the ORDER BY clause.
+
+●	To group records using the GROUP BY clause.
+
+●	To filter grouped data using the HAVING clause.
+
+●	To analyze data using aggregate functions like COUNT(), SUM(), AVG(), MIN(), and MAX().
+
+________________________________________
+Software Requirements
+●	Database:
+
+○	Oracle Database Express Edition (Oracle XE)
+
+○	PostgreSQL Database (PgAdmin)
+
+
+
+
+
+Experiment Question :
+An organization maintains an EMPLOYEE table to store details of its employees.
+ The structure of the table is as follows:
+Column Name	Data Type
+emp_id	NUMBER
+emp_name	VARCHAR
+Department	VARCHAR
+Salary	NUMBER
+joining_date	DATE
+Practical/Experiment steps:
+1.	Display the department name and the average salary of employees for each department.
+
+2.	Consider only those employees whose salary is greater than 20,000.
+
+3.	Display only those departments where the average salary is greater than 30,000.
+
+4.	Arrange the final output in descending order of average salary.
+
+
+
+
+Note:   Use the following SQL clauses in your query:
+●	WHERE
+
+●	GROUP BY
+
+●	HAVING
+
+●	ORDER BY
+
+________________________________________
 Learning Outcome
-After completing this experiment, the student is able to:
+After completing this experiment, students will be able to:
+●	Filter records using the WHERE clause.
 
-Filter records using the WHERE clause.
-Group records using GROUP BY.
-Apply conditions on grouped data using HAVING.
-Sort results using ORDER BY.
-Use aggregate functions for data analysis.
+●	Group records using GROUP BY.
+
+●	Apply conditions on grouped data using HAVING.
+
+●	Sort query results using ORDER BY.
+
+
+
