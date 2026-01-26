@@ -45,7 +45,7 @@ Role-based access control implemented
 This experiment provides practical understanding of database creation, data manipulation, and access control using PostgreSQL.
 
 
-<img width="1373" height="256" alt="Exp-1" src="https://github.com/user-attachments/assets/821bc28b-b81c-470b-ad4f-9b69b0bf5ab2"
+<img width="1373" height="256" alt="Exp-1" src="https://github.com/user-attachments/assets/821bc28b-b81c-470b-ad4f-9b69b0bf5ab2"/>
 
 <img width="641" height="169" alt="exp-1 2" src="https://github.com/user-attachments/assets/cc1efd87-05d8-44bd-8ddb-15901f564496" />
  />
