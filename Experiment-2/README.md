@@ -71,3 +71,6 @@ After completing this experiment, students will be able to:
 
 
 
+<img width="1372" height="269" alt="Exp-2" src="https://github.com/user-attachments/assets/116c3e9b-0b34-427d-8482-4f15a334036b" />
+
+<img width="1916" height="862" alt="exp2_leetcode_175" src="https://github.com/user-attachments/assets/8eb18dee-d291-4e17-b8a7-d5f7d51e0f82" />
