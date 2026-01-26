@@ -49,3 +49,5 @@ This experiment provides practical understanding of database creation, data mani
 
 <img width="641" height="169" alt="exp-1 2" src="https://github.com/user-attachments/assets/cc1efd87-05d8-44bd-8ddb-15901f564496" />
  />
+<img width="1918" height="857" alt="exp1_leetcode_183" src="https://github.com/user-attachments/assets/794414bc-60b4-4ef9-8523-5624892f7f67" />
+
