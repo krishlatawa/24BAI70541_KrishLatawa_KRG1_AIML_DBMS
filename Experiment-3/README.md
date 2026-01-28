@@ -36,7 +36,8 @@ In this experiment, a basic PL/SQL block is implemented to initialize employee-r
 7.	Verify the output displayed in the DBMS output panel.
 
 ## Program Code ##
- DECLARE
+
+DECLARE
     v_emp_id        NUMBER := 99;
     v_emp_name      VARCHAR2(50) := 'Krish Latawa';
     v_basic_salary  NUMBER := 57000;
@@ -58,11 +59,14 @@ BEGIN
 END;
 
 
+
 8. Output:
 The program successfully displays employee details, bonus amount, and total salary using DBMS output.
+
+
+<img width="1018" height="390" alt="Experiment-3-Output" src="https://github.com/user-attachments/assets/e56db4d3-e463-42f5-9258-2aafdbfb5f97" />
+
  
-
-
 9.Result
 The program ran without errors. Variable declarations were made in the declaration block, computations were performed in the execution block, and the output was printed using DBMS_OUTPUT.PUT_LINE.
 
