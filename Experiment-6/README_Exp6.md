@@ -48,7 +48,7 @@ CREATE TABLE Employees(
 **Output:**
 
 
-![Output](Experiment-6\Output-1.png)
+![Output](Output-1.png)
 
 
 
