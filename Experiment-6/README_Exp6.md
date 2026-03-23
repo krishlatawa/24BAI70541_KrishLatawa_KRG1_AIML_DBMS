@@ -64,7 +64,7 @@ COMMIT;
 **Output:**
 
 
-![Output](E:\DBMS-Pracs\Experiment-6\Output-2.png)
+![Output](Output-2.png)
 
 
 
@@ -93,7 +93,7 @@ END;
 **Output:**
 
 
-![Output](E:\DBMS-Pracs\Experiment-6\Output-3.png)
+![Output](Output-3.png)
 
 
 
@@ -136,7 +136,7 @@ END;
 **Output:**
 
 
-![Output](E:\DBMS-Pracs\Experiment-6\Output-4.png)
+![Output](Output-4.png)
 
 
 ---
